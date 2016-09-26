@@ -31,6 +31,7 @@ public class EntryClass
 	private static Logger logger = Logger.getLogger(EntryClass.class);
     public static void main(String[] args) throws Exception
     {
+
     	/********************************************************/
     	/**
     	 * 开源框架集成情况：
